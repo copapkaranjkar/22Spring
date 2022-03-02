@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.rollback__c</members>
+        <members>CopadoConflict</members>
+        <members>CopadoConflictTest</members>
+        <members>TemperatureConverter</members>
+        <members>TemperatureConverterTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Testing_Rollback_2__c</members>
+        <members>Account.Testing__c</members>
+        <members>Account.testing_rollback_3__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Account-Account Layout</members>
         <name>Layout</name>
     </types>
-    <version>53.0</version>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <version>54.0</version>
 </Package>
