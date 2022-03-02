@@ -335,6 +335,7 @@
     <fields>
         <fullName>Testing__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>Adding description to test metadata change/update on existing compinent</description>
         <externalId>false</externalId>
         <label>Testing Rollback 1</label>
         <trackFeedHistory>false</trackFeedHistory>
@@ -363,6 +364,14 @@
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>rollback5__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>rollback5</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>rollback__c</fullName>
