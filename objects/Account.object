@@ -357,6 +357,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>rollback4__c</fullName>
+        <externalId>false</externalId>
+        <label>rollback4</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>rollback__c</fullName>
         <externalId>false</externalId>
         <label>rollback</label>

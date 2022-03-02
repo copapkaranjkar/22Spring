@@ -3,13 +3,12 @@
     <types>
         <members>CopadoConflict</members>
         <members>CopadoConflictTest</members>
+        <members>TemperatureConverter</members>
+        <members>TemperatureConverterTest</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Account.Testing_Rollback_2__c</members>
-        <members>Account.Testing__c</members>
-        <members>Account.rollback__c</members>
-        <members>Account.testing_rollback_3__c</members>
+        <members>Account.rollback4__c</members>
         <name>CustomField</name>
     </types>
     <types>
