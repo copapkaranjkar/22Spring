@@ -8,14 +8,6 @@
         <apexClass>CopadoConflictTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>TemperatureConverter</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>TemperatureConverterTest</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -25,11 +17,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Testing__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.rollback4__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
