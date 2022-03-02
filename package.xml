@@ -3,8 +3,6 @@
     <types>
         <members>CopadoConflict</members>
         <members>CopadoConflictTest</members>
-        <members>TemperatureConverter</members>
-        <members>TemperatureConverterTest</members>
         <name>ApexClass</name>
     </types>
     <types>
