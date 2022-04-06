@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>CopadoConflict</members>
-        <members>CopadoConflictTest</members>
-        <members>TemperatureConverter</members>
-        <members>TemperatureConverterTest</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Account.Testing__c</members>
-        <members>Account.rollback5__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account-Account Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
+        <members>Test_Bot_Deployment_Copy_Copy</members>
+        <name>Bot</name>
     </types>
     <version>54.0</version>
 </Package>
